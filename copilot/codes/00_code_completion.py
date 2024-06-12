@@ -1,1 +1,1 @@
-# start writing a simple add() function
+# start defining a simple add() function
