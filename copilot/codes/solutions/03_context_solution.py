@@ -1,6 +1,6 @@
 from code_completion import add
 
-# define a calculator class which uses the add function from code_completion.py
+# define a calculator class with a member function 'addition' which wraps the add function from code_completion.py
 class Calculator:
     def addition(self, a, b):
         return add(a, b)
