@@ -5,7 +5,7 @@ class Calculator:
     def addition(self, a, b):
         return add(a, b)
 
-# call the adddition method of the calculator class and print the result
+# call the addition method of the calculator class and print the result
 calculator = Calculator()
 result = calculator.addition(1, 2)
 print(result)
